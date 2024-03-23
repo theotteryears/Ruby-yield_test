@@ -1,6 +1,6 @@
-# Download <code>yield.rb</code> and run ruby <code>yield.rb</code> in your terminal
+## Download <code>yield.rb</code> and run ruby <code>yield.rb</code> in your terminal
 
-## The following will print to the console
+### The following will print to the console
 
 --- Calling yield_test method with block ---
 
